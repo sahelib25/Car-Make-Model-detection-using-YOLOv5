@@ -1,4 +1,4 @@
-This model will be used for Car Make/Model Detection(i.e bus,car or truck)
+This model will be used for Car Make/Model Detection(i.e Honda, Suzuki etc.)
 The libraries required to run this model is present in the requirements.txt file
 
 
